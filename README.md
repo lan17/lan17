@@ -1,3 +1,9 @@
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=lan17)](https://github.com/ryo-ma/github-profile-trophy)
+# Hi, I'm Lev
 
-![8ballers's GitHub stats](https://github-readme-stats.vercel.app/api?username=lan17&theme=gotham&show_icons=true)
+Software engineer in San Francisco. I work on backend infrastructure, AI systems, and performance. Currently at [Galileo](https://galileo.ai).
+
+[LinkedIn](https://www.linkedin.com/in/levneiman)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lan17&theme=gotham&show_icons=true)
