@@ -14,6 +14,7 @@ Software engineer in San Francisco. I work on backend, AI systems, and performan
 
 ## Writing
 
+- [GCache: Caching without the chaos](https://galileo.ai/blog/gcache-caching-without-the-chaos)
 - [How we boosted GPU utilization by 40% with Redis + Lua](https://galileo.ai/blog/how-we-boosted-gpu-utilization-by-40-with-redis-lua)
 - [How DoorDash standardized and improved microservices caching](https://careersatdoordash.com/blog/how-doordash-standardized-and-improved-microservices-caching/)
 - [Enabling faster financial partnership integrations using Cadence](https://doordash.engineering/2022/05/18/enabling-faster-financial-partnership-integrations-using-cadence/)
