@@ -2,6 +2,8 @@
 
 Software engineer in San Francisco. I work on backend infrastructure, AI systems, and performance. Currently at [Galileo](https://galileo.ai).
 
+[LinkedIn](https://www.linkedin.com/in/levneiman) | [X](https://x.com/NeimanLev) | [Reddit](https://www.reddit.com/user/lev/)
+
 ## Projects
 
 - **[Agent Control](https://github.com/agentcontrol/agent-control)** — Centralized control plane for governing agent behavior at runtime. I designed and built most of the core architecture, including the server, SDK, and evaluator system.
@@ -10,7 +12,7 @@ Software engineer in San Francisco. I work on backend infrastructure, AI systems
 
 - **[HomeSec](https://github.com/lan17/homesec)** — Self-hosted video pipeline for home security cameras. YOLO + VLM filtering, smart notifications, no cloud required.
 
-[LinkedIn](https://www.linkedin.com/in/levneiman)
+
 
 ---
 
