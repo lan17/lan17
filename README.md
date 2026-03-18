@@ -12,7 +12,12 @@ Software engineer in San Francisco. I work on backend, AI systems, and performan
 
 - **[HomeSec](https://github.com/lan17/homesec)** — Self-hosted video pipeline for home security cameras. YOLO + VLM filtering, smart notifications, no cloud required.
 
+## Writing
 
+- [How we boosted GPU utilization by 40% with Redis + Lua](https://galileo.ai/blog/how-we-boosted-gpu-utilization-by-40-with-redis-lua)
+- [How DoorDash standardized and improved microservices caching](https://careersatdoordash.com/blog/how-doordash-standardized-and-improved-microservices-caching/)
+- [Enabling faster financial partnership integrations using Cadence](https://doordash.engineering/2022/05/18/enabling-faster-financial-partnership-integrations-using-cadence/)
+- [How to boost code coverage with functional testing](https://doordash.engineering/2022/11/01/how-to-boost-code-coverage-with-functional-testing/)
 
 ---
 
