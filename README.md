@@ -8,7 +8,7 @@ Software engineer in San Francisco. I work on backend, AI systems, and performan
 
 - **[Agent Control](https://github.com/agentcontrol/agent-control)** — Centralized control plane for governing agent behavior at runtime. I designed and built most of the core architecture, including the server, SDK, and evaluator system.
 
-- **[Aent Control OpenClaw Plugin](https://github.com/agentcontrol/openclaw-plugin)** — Bringing Agent Control to OpenClaw!
+- **[Agent Control OpenClaw Plugin](https://github.com/agentcontrol/openclaw-plugin)** — Bringing Agent Control to OpenClaw!
 
 - **[GCache](https://github.com/rungalileo/gcache)** — Caching library I built at Galileo. Multi-layer (local + Redis), structured keys, runtime ramp controls, and per-use-case observability out of the box.
 
